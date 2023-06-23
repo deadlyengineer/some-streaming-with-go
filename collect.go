@@ -1,4 +1,4 @@
-package gostreams
+package some-streaming-with-go
 
 import "context"
 

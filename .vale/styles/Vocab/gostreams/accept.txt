@@ -1,1 +1,1 @@
-gostreams
+some-streaming-with-go

@@ -99,7 +99,7 @@ linters-settings:
       - .WithStack(
       - .Err()
     ignorePackageGlobs:
-      - github.com/blizzy78/gostreams*
+      - github.com/deadlyengineer/some-streaming-with-go*
       - golang.org/x/sync/errgroup*
       - github.com/hashicorp/go-multierror*
       - github.com/magefile/mage*

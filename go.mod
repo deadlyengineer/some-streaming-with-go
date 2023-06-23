@@ -1,4 +1,4 @@
-module github.com/blizzy78/gostreams
+module github.com/deadlyengineer/some-streaming-with-go
 
 go 1.20
 

@@ -1,13 +1,13 @@
-[![GoDoc](https://pkg.go.dev/badge/github.com/blizzy78/gostreams)](https://pkg.go.dev/github.com/blizzy78/gostreams)
+[![GoDoc](https://pkg.go.dev/badge/github.com/deadlyengineer/some-streaming-with-go)](https://pkg.go.dev/github.com/deadlyengineer/some-streaming-with-go)
 
 
-gostreams
+some-streaming-with-go
 =========
 
 A Go package that provides a set of operations on streams of elements.
 
 ```go
-import "github.com/blizzy78/gostreams"
+import "github.com/deadlyengineer/some-streaming-with-go"
 ```
 
 

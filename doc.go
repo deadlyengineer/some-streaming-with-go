@@ -1,4 +1,4 @@
-// Package gostreams provides a set of operations on streams of elements. Streams form a pipeline
+// Package some-streaming-with-go provides a set of operations on streams of elements. Streams form a pipeline
 // of operations that elements are passing through.
 //
 // Streams consist of an initial ProducerFunc, which can produce elements from slices, channels,
@@ -18,4 +18,4 @@
 //
 // Streams are always lazy, meaning that producers will produce a new element only after a downstream
 // producer or consumer has consumed the previous element.
-package gostreams
+package some-streaming-with-go
